@@ -1,1 +1,1 @@
-A repo for different STM32CubeIDE projects to try out stuff
+An example on how CAN works. Connected to STM32 MCUs (both F303 based) over CAN.
