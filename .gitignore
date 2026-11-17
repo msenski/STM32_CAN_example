@@ -1,0 +1,51 @@
+# STM32CubeIDE build configurations (generated output)
+**/Debug/
+**/Release/
+
+# Eclipse / STM32CubeIDE workspace state and local history
+**/.metadata/
+**/.recommenders/
+**/.history/
+**/RemoteSystemsTempFiles/
+**/.DS_Store
+
+# Compiler, linker, and debugger output
+*.o
+*.obj
+*.d
+*.su
+*.cyclo
+*.elf
+*.axf
+*.out
+*.map
+*.list
+*.lst
+*.hex
+*.bin
+*.srec
+*.s19
+*.gcda
+*.gcno
+
+# Editor backups and temporary files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Keep project definitions and build inputs under version control:
+#   *.ioc                      CubeMX configuration
+#   .project, .cproject         CubeIDE project and build configuration
+#   .settings/, *.launch        Project settings and debug configurations
+#   .mxproject                 CubeMX generation metadata
+#   Core/, Drivers/, Middlewares/, USB_DEVICE/, FATFS/, etc.
+#   Startup files, linker scripts (*.ld), and any custom build files
+# Generated source is intentionally kept so a clone can build immediately.
